@@ -1,3 +1,3 @@
-const LinkVercel = "http://localhost:5000"
+const LinkVercel = "https://scholarship-backend-ten.vercel.app"
 
 export {LinkVercel}
